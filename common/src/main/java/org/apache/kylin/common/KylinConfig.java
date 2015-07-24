@@ -38,6 +38,7 @@ import java.util.regex.Pattern;
  */
 public class KylinConfig {
 
+
     public static final String KYLIN_STORAGE_URL = "kylin.storage.url";
 
     public static final String PROP_SCAN_THRESHOLD = "PROP_SCAN_THRESHOLD";
